@@ -1,5 +1,5 @@
 # datasciencecoursera
 Data Science Repository
 readme file
-## Secondary Heading
-### Tertiary Heading
+## This is Secondary Heading
+### This is Tertiary Heading
