@@ -1,5 +1,5 @@
 # datasciencecoursera
 Data Science Repository
 readme file
-##title
-###Another title
+## Secondary Heading
+### Tertiary Heading
